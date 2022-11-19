@@ -302,7 +302,7 @@ a:hover {
 }
 
 .navbar-brand img {
-  max-height: 200px;
+  max-height: 20px;
   margin: 0 5px 0 0;
   display: inline;
 }
@@ -388,7 +388,7 @@ a:hover {
   .nav-center .navbar-brand,
   .nav-center .nav > li {
     float: none;
-    /* display: inline-block; */
+    display: inline-block;
   }
   .nav-center .site-navigation {
     position: relative;
